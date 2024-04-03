@@ -1,0 +1,6 @@
+img {
+  display: flex;
+  padding: 30px;
+  height: 300px;
+  float: left;
+}
